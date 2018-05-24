@@ -14,7 +14,7 @@ public class Exercise2Part1 {
 		double Height = 165;
 		String Colorofeyes = "Balck";
 		String Colorofhair = "Black";
-		String Nameofprimaryschool = "Nalanda College";
+		String Nameofprimaryschool = "Naanda College";
 		String Nameofsecondaryschool = "Nalanda College";
 		String NameofUniversity = "University of Sri Jayewardenepura- Sri Lanka";
 		String Localaddress = "No 202, Ludwig Guttmann Str 2, Heidelberg";
